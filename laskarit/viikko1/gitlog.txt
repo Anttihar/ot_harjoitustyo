@@ -1,0 +1,52 @@
+commit c506c47765d8ee4e4957a229c3f24a7541eee279
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 21:02:30 2023 +0300
+
+    poistettu file1.txt ja muutettu nimi file2.txt -> file22.txt
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 313b88ec6e2337509c6a31e924f08006521fe6e9
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 20:55:09 2023 +0300
+
+    lisätty hakemisto tiedostoja
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d500ee2eede5e1a9f57e22580ff316dd8d950f93
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 20:45:06 2023 +0300
+
+    lisäyksiä ja poistoja eka.txt ja kolmas.txt
+
+ eka.txt    | 16 +++++-----------
+ kolmas.txt |  8 +++++++-
+ 2 files changed, 12 insertions(+), 12 deletions(-)
+
+commit dd0d76333f840e3704add15a37162ddef254ae1e
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 19:41:36 2023 +0300
+
+    muutettu nimi tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 98cb6ae758ef57a425bf2d0d7ba590980beaea0a
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 19:38:32 2023 +0300
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit a9dc9143a41f205b0619869b4cb459956b9027ea
+Author: Ant Har <antti.harra@gmail.com>
+Date:   Wed Mar 29 19:18:29 2023 +0300
