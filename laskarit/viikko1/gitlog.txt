@@ -50,3 +50,5 @@ Date:   Wed Mar 29 19:38:32 2023 +0300
 commit a9dc9143a41f205b0619869b4cb459956b9027ea
 Author: Ant Har <antti.harra@gmail.com>
 Date:   Wed Mar 29 19:18:29 2023 +0300
+
+Tähän lisättiin tekstiä
